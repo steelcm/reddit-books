@@ -20,10 +20,10 @@ class PrawUtil:
 
 
 # todo: move this into config
-username = "terminaldevelopment"
-password = "VeAWqxRlzpoc"
+username = ""
+password = ""
 clientId = "6fr2-IRsBOxfRA"
-clientSecret = "DQqz1U_943_HTEr1dbhLzI7ZJNk"
+clientSecret = ""
 
 
 util = PrawUtil(clientId, clientSecret)
